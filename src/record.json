@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "duretion": "2015-Present",
+        "title": "Rainbow - Themes.",
+        "designation": "Co-Founder, Web Designer & Developer",
+        "desc": "Reinvetning the way you create websites",
+        "image": "https://rainbowit.net/html/inbio/assets/images/portfolio/portfolio-01.jpg"
+    },
+    {
+        "id": 2,
+        "duretion": "2015-Present",
+        "title": "Application Management.",
+        "designation": "Co-Founder, Web Designer & Developer",
+        "desc": "Reinvetning the way you create websites",
+        "image": "https://rainbowit.net/html/inbio/assets/images/portfolio/portfolio-02.jpg"
+    },
+    {
+        "id": 3,
+        "duretion": "2015-Present",
+        "title": "App Development",
+        "designation": "Co-Founder, Web Designer & Developer",
+        "desc": "Reinvetning the way you create websites",
+        "image": "https://rainbowit.net/html/inbio/assets/images/portfolio/portfolio-03.jpg"
+    }
+]

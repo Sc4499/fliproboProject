@@ -1,0 +1,29 @@
+body {
+
+    font-family: "Montserrat", sans-serif !important;
+}
+
+.divider {
+    margin: 100px 0px;
+}
+
+.heading {
+    text-align: center;
+}
+
+.heading h1 {
+    font-size: 60px;
+    font-weight: 700;
+    line-height: 1.2;
+    color: #3c3e41;
+    margin-top: 15px;
+    margin-bottom: 0;
+}
+
+.heading p {
+    color: #f9004d;
+    letter-spacing: 2px;
+    display: block;
+    line-height: 14px;
+    font-weight: 500;
+}
